@@ -1,0 +1,25 @@
+body{
+    color: #ffffff;
+    background-color: #040427;
+
+
+}
+img{
+    border-radius: 80px;
+    padding: 50px;
+}
+
+.progress{
+    border-radius: 30rem;
+    height: 2rem;
+    margin: 10px;
+}
+
+.skile{
+    margin: 20px;
+    text-align: start;
+}
+.myskil{
+    font-size:30px;
+    color: blueviolet;
+}
